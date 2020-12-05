@@ -10,4 +10,4 @@ O presente projeto foi proposto pela Digital Inovation One, no bootcamp "HTML We
 
 #### Aplicação:
 
-![Login do Instagram](D:\workspace\projetos-web\print-projetos\tela-instagram.jpg)
+![Instagram Login](tela-instagram.jpg)
